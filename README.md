@@ -29,7 +29,9 @@ github地址：https://github.com/TaleLin
 
 本课程的KOA技术架构完全同Lin CMS保持一致。实际上本课程可视作是Lin CMS的入门课程。
 
-Lin CMS 线上Demo（点击访问）：http://face.cms.7yue.pro
+Lin CMS 线上Demo（点击访问）：
+
+http://face.cms.7yue.pro
 
 强烈建议同学们学习完本课程后，自己动手使用Lin CMS为项目编写一个后台管理系统。如果能独立完成开发，相信编程水平将大有精进。
 
