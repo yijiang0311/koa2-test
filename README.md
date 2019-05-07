@@ -8,9 +8,11 @@ Hello，大家好，我是7七月。这是我的第7门课程。传说集齐全�
 
 **配套前端课程**：[《纯正商业应用-Node.js KOA开发微信小程序服务端》](https://coding.imooc.com/class/251.html)
 
-**个人网站**：http://www.7yue.pro
+**7七月个人网站**：http://www.7yue.pro
 
-**慕课网主页**: https://www.imooc.com/
+**7七月慕课网主页**: https://www.imooc.com/
+
+**交流QQ群**：814597236
 
 **7七月的微信公众号**
 
