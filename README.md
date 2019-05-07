@@ -4,13 +4,13 @@ Hello，大家好，我是7七月。这是我的第7门课程。传说集齐全�
 
 本课程不仅仅只是一个项目，更重要的是他提供了一个非常好用的Koa框架，未来同学们在自己编写Koa时，只需要按照课程中的模式编写自己的业务即可。
 
-**本课程购买地址**：[《纯正商业应用-Node.js KOA开发微信小程序服务端》](https://coding.imooc.com/class/342.html)
+**本课程地址**：[《纯正商业应用-Node.js KOA开发微信小程序服务端》](https://coding.imooc.com/class/342.html)
 
 **配套前端课程**：[《纯正商业应用-Node.js KOA开发微信小程序服务端》](https://coding.imooc.com/class/251.html)
 
-**7七月个人网站**：http://www.7yue.pro
+**个人网站**：http://www.7yue.pro
 
-**7七月慕课网主页**: https://www.imooc.com/
+**慕课网主页**: https://www.imooc.com/
 
 **交流QQ群**：814597236
 
