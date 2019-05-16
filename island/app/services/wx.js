@@ -18,8 +18,9 @@ class WXManager {
             throw new global.errs.AuthFailed('openid获取失败')
         }
         const errcode = result.data.errcode
-        if (errcode !== 0){
-            throw new global.errs.AuthFailed('openid获取失败:'+errcode)
+        const errmsg = result.data.errmsg
+        if (errcode){
+            throw new global.errs.AuthFailed('openid获取失败:'+errmsg)
         }
         // openid
         // 档案 user uid openid 长
@@ -31,6 +32,7 @@ class WXManager {
         }
         return generateToken(user.id, Auth.USER)
     }
+
 }
 
 module.exports = {

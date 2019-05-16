@@ -1,6 +1,7 @@
 const Router = require('koa-router')
 const {
-    TokenValidator
+    TokenValidator,
+    NotEmptyValidator
 } = require('../../validators/validator')
 const {
     LoginType
@@ -20,14 +21,6 @@ const router = new Router({
 
 router.post('/', async (ctx) => {
     const v = await new TokenValidator().validate(ctx)
-    // 业务逻辑
-    // 1 在API接口编写
-    // 2 Model 分层
-    // MVC Model
- 
-    // 业务分层 Model，Service
-    // Thinkphp Model Service Logic
-    // Model DTO
     let token;
     switch (v.get('body.type')) {
         case LoginType.USER_EMAIL:
@@ -44,6 +37,15 @@ router.post('/', async (ctx) => {
     }
     ctx.body = {
         token
+    }
+})
+
+router.post('/verify', async (ctx)=>{
+    // token
+    const v =await new NotEmptyValidator().validate(ctx)
+    const result = Auth.verifyToken(v.get('body.token'))
+    ctx.body = {
+        result
     }
 })
 
