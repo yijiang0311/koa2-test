@@ -108,10 +108,13 @@ class NotEmptyValidator extends LinValidator{
 }
 
 function checkType(vals){
-    if(!vals.body.type){
+    let type = vals.body.type || vals.path.type
+    if(!type){
         throw new Error('type是必须参数')
     }
-    if(!LoginType.isThisType(vals.body.type)){
+    type = parseInt(type)
+  
+    if(!LoginType.isThisType(type)){
         throw new Error('type参数不合法')
     }
 }
@@ -123,10 +126,15 @@ class LikeValidator extends PositiveIntegerValidator {
     }
 }
 
+class ClassicValidator extends LikeValidator{
+
+}
+
 module.exports = {
     PositiveIntegerValidator,
     RegisterValidator,
     TokenValidator,
     NotEmptyValidator,
-    LikeValidator
+    LikeValidator,
+    ClassicValidator
 }
