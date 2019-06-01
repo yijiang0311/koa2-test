@@ -10,7 +10,7 @@ const app = new Koa()
 app.use(catchError)
 app.use(parser())
 
-process.cwd()
+console.log(process.cwd())
 InitManager.initCore(app)
 
 
