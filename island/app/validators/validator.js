@@ -6,7 +6,10 @@ const {
 const {
     User
 } = require('../models/user')
-const {LoginType,ArtType} = require('../lib/enum')
+const {
+    LoginType,
+    ArtType
+} = require('../lib/enum')
 
 class PositiveIntegerValidator extends LinValidator {
     constructor() {
@@ -88,65 +91,67 @@ class TokenValidator extends LinValidator {
 
     }
 
-    validateLoginType(vals){
-        if(!vals.body.type){
+    validateLoginType(vals) {
+        if (!vals.body.type) {
             throw new Error('type是必须参数')
         }
-        if(!LoginType.isThisType(vals.body.type)){
+        if (!LoginType.isThisType(vals.body.type)) {
             throw new Error('type参数不合法')
         }
     }
 }
 
-class NotEmptyValidator extends LinValidator{
-    constructor(){
+class NotEmptyValidator extends LinValidator {
+    constructor() {
         super()
         this.token = [
-            new Rule('isLength','不允许为空',{min:1})
+            new Rule('isLength', '不允许为空', {
+                min: 1
+            })
         ]
     }
 }
 
-function checkType(vals){
+function checkType(vals) {
     let type = vals.body.type || vals.path.type
-    if(!type){
+    if (!type) {
         throw new Error('type是必须参数')
     }
     type = parseInt(type)
-  
-    if(!LoginType.isThisType(type)){
+
+    if (!LoginType.isThisType(type)) {
         throw new Error('type参数不合法')
     }
 }
 
-function checkArtType(vals){
+function checkArtType(vals) {
     let type = vals.body.type || vals.path.type
-    if(!type){
+    if (!type) {
         throw new Error('type是必须参数')
     }
     type = parseInt(type)
-  
-    if(!ArtType.isThisType(type)){
+
+    if (!ArtType.isThisType(type)) {
         throw new Error('type参数不合法')
     }
 }
 
-class Checker{
-    constructor(type){
+class Checker {
+    constructor(type) {
         this.enumType = type
     }
 
-    check(vals){
+    check(vals) {
         let type = vals.body.type || vals.path.type
-        if(!type){
+        if (!type) {
             throw new Error('type是必须参数')
         }
         type = parseInt(type)
-      
-        if(!this.enumType.isThisType(type)){
+
+        if (!this.enumType.isThisType(type)) {
             throw new Error('type参数不合法')
         }
-    
+
     }
 }
 
@@ -161,8 +166,47 @@ class LikeValidator extends PositiveIntegerValidator {
     }
 }
 
-class ClassicValidator extends LikeValidator{
+class ClassicValidator extends LikeValidator {
 
+}
+
+class SearchValidator extends LinValidator {
+    constructor() {
+        super()
+        this.q = [
+            new Rule('isLength', '搜索关键词不能为空', {
+                min: 1,
+                max: 16
+            })
+        ]
+        this.start = [
+            new Rule('isInt', '不符合规范', {
+                min: 0,
+                max: 60000
+            }),
+            new Rule('isOptional', '', 0)
+        ]
+        this.count = [
+            new Rule('isInt', '不符合规范', {
+                min: 1,
+                max: 20
+            }),
+            new Rule('isOptional', '', 20)
+        ]
+
+    }
+}
+
+class AddShortCommentValidator extends PositiveIntegerValidator {
+    constructor() {
+        super()
+        this.content = [
+            new Rule('isLength', '必须在1到12个字符之间', {
+                min: 1,
+                max: 12
+            })
+        ]
+    }
 }
 
 module.exports = {
@@ -171,5 +215,7 @@ module.exports = {
     TokenValidator,
     NotEmptyValidator,
     LikeValidator,
-    ClassicValidator
+    ClassicValidator,
+    SearchValidator,
+    AddShortCommentValidator
 }
