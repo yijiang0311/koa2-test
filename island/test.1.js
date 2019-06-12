@@ -1,6 +1,11 @@
-const a = -1
-const v = {
-    [a]:200
+const obj = {
+    name:'7yue',
+    age:18,
+    toJSON: function(){
+       return {
+           name1:'8yue'
+       }
+    }
 }
 
-console.log(v)
+console.log(JSON.stringify(obj))

@@ -31,6 +31,9 @@ router.get('/latest', new Auth().m, async (ctx, next) => {
         ]
     })
     const art = await Art.getData(flow.art_id, flow.type)
+    const i = art.get('image')
+    const t = art.image
+    const s = art.getDataValue('image')
     const likeLatest = await Favor.userLikeIt(
         flow.art_id, flow.type, ctx.auth.uid)
     art.setDataValue('index', flow.index)
@@ -56,6 +59,7 @@ router.get('/:index/next', new Auth().m, async (ctx) => {
         flow.art_id, flow.type, ctx.auth.uid)
     art.setDataValue('index', flow.index)
     art.setDataValue('like_status', likeNext)
+    // art.exclude = ['index','like_status']
     ctx.body = art
 })
 

@@ -17,7 +17,6 @@ class HotBook extends Model{
             where:{
                 art_id:{
                     [Op.in]:ids,
-                   
                 },
                 type:400
                 // 国画
@@ -40,7 +39,7 @@ class HotBook extends Model{
                 count = favor.get('count')
             }
         })
-        book.setDataValue('count',count)
+        book.setDataValue('fav_nums',count)
         return book
     }
 }
