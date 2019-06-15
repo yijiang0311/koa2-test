@@ -4,19 +4,22 @@ const {
     Model
 } = require('sequelize')
 
-// 静态资源 图片 消耗流量
-// 1 网站目录
-// 2 静态资源服务器 微服务 带宽足够
-// 3 云服务 OSS 贵 ECS、RDS、OSS， CDN
-// 4 github gitpage 300mb
 
-// js、css、html
-// vue\react 前端单页面 nuxt ssr
-// ajax
-// 服务端模板渲染 PHP、Java
-// vue react 网站，SEO To C
-// CMS 内部SEO
-// WebApp H5
+// 本地 跑起来
+// 另外一台电脑 跑起来
+// 本地电脑外网ip
+
+// 云服务器 Linux 电脑
+// localhost , ip
+// 域名，注册域名
+// 备案
+// 解析 7yue.pro ip
+
+// mysql node xampp linux
+// localhost:3000
+
+// ip:3000
+// http://7yue.pro:3000/v1/classic/...
 
 
 const classicFields = {
