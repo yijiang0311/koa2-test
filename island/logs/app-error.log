@@ -973,3 +973,11 @@ Error: bind EADDRINUSE null:3000
 2020-04-03 15:40:06: (node:74046) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
 2020-04-03 15:40:15: (node:74049) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
 2020-04-03 15:40:24: (node:74059) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:40:36: (node:74137) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:40:45: (node:74147) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:40:54: (node:74160) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:41:06: (node:74249) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:41:15: (node:74252) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:41:24: (node:74255) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:41:36: (node:74320) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:41:45: (node:74344) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
