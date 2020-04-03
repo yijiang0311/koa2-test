@@ -3,4 +3,4 @@ package-lock.json
 .vscode
 config.js
 logs
-logs/*
+logs/*.*

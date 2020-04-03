@@ -4173,3 +4173,79 @@
 2020-04-03 15:42:15: Executing (default): SHOW INDEX FROM `user`
 2020-04-03 15:42:15: Executing (default): CREATE TABLE IF NOT EXISTS `flow` (`id` INTEGER NOT NULL auto_increment , `index` INTEGER, `art_id` INTEGER, `type` INTEGER, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
 2020-04-03 15:42:15: Executing (default): SHOW INDEX FROM `flow`
+2020-04-03 15:42:24: 监听：3000
+2020-04-03 15:42:24: Executing (default): CREATE TABLE IF NOT EXISTS `movie` (`id` INTEGER NOT NULL auto_increment , `image` VARCHAR(255), `content` VARCHAR(255), `pubdate` DATE, `fav_nums` INTEGER DEFAULT 0, `title` VARCHAR(255), `type` TINYINT, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:24: Executing (default): SHOW INDEX FROM `movie`
+2020-04-03 15:42:24: Executing (default): CREATE TABLE IF NOT EXISTS `sentence` (`id` INTEGER NOT NULL auto_increment , `image` VARCHAR(255), `content` VARCHAR(255), `pubdate` DATE, `fav_nums` INTEGER DEFAULT 0, `title` VARCHAR(255), `type` TINYINT, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:24: Executing (default): SHOW INDEX FROM `sentence`
+2020-04-03 15:42:24: Executing (default): CREATE TABLE IF NOT EXISTS `music` (`id` INTEGER NOT NULL auto_increment , `url` VARCHAR(255), `image` VARCHAR(255), `content` VARCHAR(255), `pubdate` DATE, `fav_nums` INTEGER DEFAULT 0, `title` VARCHAR(255), `type` TINYINT, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:24: Executing (default): SHOW INDEX FROM `music`
+2020-04-03 15:42:24: Executing (default): CREATE TABLE IF NOT EXISTS `favor` (`id` INTEGER NOT NULL auto_increment , `uid` INTEGER, `art_id` INTEGER, `type` INTEGER, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:24: Executing (default): SHOW INDEX FROM `favor`
+2020-04-03 15:42:24: Executing (default): CREATE TABLE IF NOT EXISTS `hot_book` (`id` INTEGER NOT NULL auto_increment , `index` INTEGER, `image` VARCHAR(255), `author` VARCHAR(255), `title` VARCHAR(255), `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:24: Executing (default): SHOW INDEX FROM `hot_book`
+2020-04-03 15:42:24: Executing (default): CREATE TABLE IF NOT EXISTS `book` (`id` INTEGER , `fav_nums` INTEGER DEFAULT 0, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:24: Executing (default): SHOW INDEX FROM `book`
+2020-04-03 15:42:24: Executing (default): CREATE TABLE IF NOT EXISTS `comment` (`id` INTEGER NOT NULL auto_increment , `content` VARCHAR(12), `nums` INTEGER DEFAULT 0, `book_id` INTEGER, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:24: Executing (default): SHOW INDEX FROM `comment`
+2020-04-03 15:42:24: Executing (default): CREATE TABLE IF NOT EXISTS `user` (`id` INTEGER auto_increment , `nickname` VARCHAR(255), `email` VARCHAR(128) UNIQUE, `password` VARCHAR(255), `openid` VARCHAR(64) UNIQUE, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:24: Executing (default): SHOW INDEX FROM `user`
+2020-04-03 15:42:24: Executing (default): CREATE TABLE IF NOT EXISTS `flow` (`id` INTEGER NOT NULL auto_increment , `index` INTEGER, `art_id` INTEGER, `type` INTEGER, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:24: Executing (default): SHOW INDEX FROM `flow`
+2020-04-03 15:42:36: 监听：3000
+2020-04-03 15:42:36: Executing (default): CREATE TABLE IF NOT EXISTS `movie` (`id` INTEGER NOT NULL auto_increment , `image` VARCHAR(255), `content` VARCHAR(255), `pubdate` DATE, `fav_nums` INTEGER DEFAULT 0, `title` VARCHAR(255), `type` TINYINT, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:36: Executing (default): SHOW INDEX FROM `movie`
+2020-04-03 15:42:36: Executing (default): CREATE TABLE IF NOT EXISTS `sentence` (`id` INTEGER NOT NULL auto_increment , `image` VARCHAR(255), `content` VARCHAR(255), `pubdate` DATE, `fav_nums` INTEGER DEFAULT 0, `title` VARCHAR(255), `type` TINYINT, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:36: Executing (default): SHOW INDEX FROM `sentence`
+2020-04-03 15:42:36: Executing (default): CREATE TABLE IF NOT EXISTS `music` (`id` INTEGER NOT NULL auto_increment , `url` VARCHAR(255), `image` VARCHAR(255), `content` VARCHAR(255), `pubdate` DATE, `fav_nums` INTEGER DEFAULT 0, `title` VARCHAR(255), `type` TINYINT, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:36: Executing (default): SHOW INDEX FROM `music`
+2020-04-03 15:42:36: Executing (default): CREATE TABLE IF NOT EXISTS `favor` (`id` INTEGER NOT NULL auto_increment , `uid` INTEGER, `art_id` INTEGER, `type` INTEGER, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:37: Executing (default): SHOW INDEX FROM `favor`
+2020-04-03 15:42:37: Executing (default): CREATE TABLE IF NOT EXISTS `hot_book` (`id` INTEGER NOT NULL auto_increment , `index` INTEGER, `image` VARCHAR(255), `author` VARCHAR(255), `title` VARCHAR(255), `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:37: Executing (default): SHOW INDEX FROM `hot_book`
+2020-04-03 15:42:37: Executing (default): CREATE TABLE IF NOT EXISTS `book` (`id` INTEGER , `fav_nums` INTEGER DEFAULT 0, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:37: Executing (default): SHOW INDEX FROM `book`
+2020-04-03 15:42:37: Executing (default): CREATE TABLE IF NOT EXISTS `comment` (`id` INTEGER NOT NULL auto_increment , `content` VARCHAR(12), `nums` INTEGER DEFAULT 0, `book_id` INTEGER, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:37: Executing (default): SHOW INDEX FROM `comment`
+2020-04-03 15:42:37: Executing (default): CREATE TABLE IF NOT EXISTS `user` (`id` INTEGER auto_increment , `nickname` VARCHAR(255), `email` VARCHAR(128) UNIQUE, `password` VARCHAR(255), `openid` VARCHAR(64) UNIQUE, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:37: Executing (default): SHOW INDEX FROM `user`
+2020-04-03 15:42:37: Executing (default): CREATE TABLE IF NOT EXISTS `flow` (`id` INTEGER NOT NULL auto_increment , `index` INTEGER, `art_id` INTEGER, `type` INTEGER, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:37: Executing (default): SHOW INDEX FROM `flow`
+2020-04-03 15:42:45: 监听：3000
+2020-04-03 15:42:45: Executing (default): CREATE TABLE IF NOT EXISTS `movie` (`id` INTEGER NOT NULL auto_increment , `image` VARCHAR(255), `content` VARCHAR(255), `pubdate` DATE, `fav_nums` INTEGER DEFAULT 0, `title` VARCHAR(255), `type` TINYINT, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:45: Executing (default): SHOW INDEX FROM `movie`
+2020-04-03 15:42:45: Executing (default): CREATE TABLE IF NOT EXISTS `sentence` (`id` INTEGER NOT NULL auto_increment , `image` VARCHAR(255), `content` VARCHAR(255), `pubdate` DATE, `fav_nums` INTEGER DEFAULT 0, `title` VARCHAR(255), `type` TINYINT, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:45: Executing (default): SHOW INDEX FROM `sentence`
+2020-04-03 15:42:45: Executing (default): CREATE TABLE IF NOT EXISTS `music` (`id` INTEGER NOT NULL auto_increment , `url` VARCHAR(255), `image` VARCHAR(255), `content` VARCHAR(255), `pubdate` DATE, `fav_nums` INTEGER DEFAULT 0, `title` VARCHAR(255), `type` TINYINT, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:45: Executing (default): SHOW INDEX FROM `music`
+2020-04-03 15:42:45: Executing (default): CREATE TABLE IF NOT EXISTS `favor` (`id` INTEGER NOT NULL auto_increment , `uid` INTEGER, `art_id` INTEGER, `type` INTEGER, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:45: Executing (default): SHOW INDEX FROM `favor`
+2020-04-03 15:42:45: Executing (default): CREATE TABLE IF NOT EXISTS `hot_book` (`id` INTEGER NOT NULL auto_increment , `index` INTEGER, `image` VARCHAR(255), `author` VARCHAR(255), `title` VARCHAR(255), `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:45: Executing (default): SHOW INDEX FROM `hot_book`
+2020-04-03 15:42:45: Executing (default): CREATE TABLE IF NOT EXISTS `book` (`id` INTEGER , `fav_nums` INTEGER DEFAULT 0, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:45: Executing (default): SHOW INDEX FROM `book`
+2020-04-03 15:42:45: Executing (default): CREATE TABLE IF NOT EXISTS `comment` (`id` INTEGER NOT NULL auto_increment , `content` VARCHAR(12), `nums` INTEGER DEFAULT 0, `book_id` INTEGER, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:45: Executing (default): SHOW INDEX FROM `comment`
+2020-04-03 15:42:45: Executing (default): CREATE TABLE IF NOT EXISTS `user` (`id` INTEGER auto_increment , `nickname` VARCHAR(255), `email` VARCHAR(128) UNIQUE, `password` VARCHAR(255), `openid` VARCHAR(64) UNIQUE, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:45: Executing (default): SHOW INDEX FROM `user`
+2020-04-03 15:42:45: Executing (default): CREATE TABLE IF NOT EXISTS `flow` (`id` INTEGER NOT NULL auto_increment , `index` INTEGER, `art_id` INTEGER, `type` INTEGER, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:45: Executing (default): SHOW INDEX FROM `flow`
+2020-04-03 15:42:54: 监听：3000
+2020-04-03 15:42:54: Executing (default): CREATE TABLE IF NOT EXISTS `movie` (`id` INTEGER NOT NULL auto_increment , `image` VARCHAR(255), `content` VARCHAR(255), `pubdate` DATE, `fav_nums` INTEGER DEFAULT 0, `title` VARCHAR(255), `type` TINYINT, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:54: Executing (default): SHOW INDEX FROM `movie`
+2020-04-03 15:42:54: Executing (default): CREATE TABLE IF NOT EXISTS `sentence` (`id` INTEGER NOT NULL auto_increment , `image` VARCHAR(255), `content` VARCHAR(255), `pubdate` DATE, `fav_nums` INTEGER DEFAULT 0, `title` VARCHAR(255), `type` TINYINT, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:54: Executing (default): SHOW INDEX FROM `sentence`
+2020-04-03 15:42:54: Executing (default): CREATE TABLE IF NOT EXISTS `music` (`id` INTEGER NOT NULL auto_increment , `url` VARCHAR(255), `image` VARCHAR(255), `content` VARCHAR(255), `pubdate` DATE, `fav_nums` INTEGER DEFAULT 0, `title` VARCHAR(255), `type` TINYINT, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:54: Executing (default): SHOW INDEX FROM `music`
+2020-04-03 15:42:54: Executing (default): CREATE TABLE IF NOT EXISTS `favor` (`id` INTEGER NOT NULL auto_increment , `uid` INTEGER, `art_id` INTEGER, `type` INTEGER, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:54: Executing (default): SHOW INDEX FROM `favor`
+2020-04-03 15:42:54: Executing (default): CREATE TABLE IF NOT EXISTS `hot_book` (`id` INTEGER NOT NULL auto_increment , `index` INTEGER, `image` VARCHAR(255), `author` VARCHAR(255), `title` VARCHAR(255), `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:54: Executing (default): SHOW INDEX FROM `hot_book`
+2020-04-03 15:42:54: Executing (default): CREATE TABLE IF NOT EXISTS `book` (`id` INTEGER , `fav_nums` INTEGER DEFAULT 0, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:54: Executing (default): SHOW INDEX FROM `book`
+2020-04-03 15:42:54: Executing (default): CREATE TABLE IF NOT EXISTS `comment` (`id` INTEGER NOT NULL auto_increment , `content` VARCHAR(12), `nums` INTEGER DEFAULT 0, `book_id` INTEGER, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:54: Executing (default): SHOW INDEX FROM `comment`
+2020-04-03 15:42:54: Executing (default): CREATE TABLE IF NOT EXISTS `user` (`id` INTEGER auto_increment , `nickname` VARCHAR(255), `email` VARCHAR(128) UNIQUE, `password` VARCHAR(255), `openid` VARCHAR(64) UNIQUE, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:54: Executing (default): SHOW INDEX FROM `user`
+2020-04-03 15:42:54: Executing (default): CREATE TABLE IF NOT EXISTS `flow` (`id` INTEGER NOT NULL auto_increment , `index` INTEGER, `art_id` INTEGER, `type` INTEGER, `created_at` DATETIME NOT NULL, `updated_at` DATETIME NOT NULL, `deleted_at` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;
+2020-04-03 15:42:54: Executing (default): SHOW INDEX FROM `flow`
