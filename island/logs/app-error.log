@@ -1,0 +1,915 @@
+2020-04-03 15:04:02: (node:66696) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:04:02: (node:66697) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:04:02: (node:66698) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:04:03: (node:66699) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:04:07: (node:66775) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:04:18: (node:66778) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:04:29: (node:66794) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:04:40: (node:66811) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:05:06: (node:66885) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:05:17: (node:66893) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:05:29: (node:66904) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:05:31: (node:66917) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:05:31: (node:66916) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:05:31: (node:66921) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:05:31: (node:66922) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:05:32: (node:66926) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:05:43: (node:66950) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:05:43: (node:66949) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:05:43: (node:66953) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:05:43: (node:66954) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:05:54: (node:66970) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:05:54: (node:66969) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:05:54: (node:66974) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:05:54: (node:66973) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:03: (node:66990) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:04: (node:66989) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:04: (node:66994) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:06:04: (node:66993) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:07: (node:67060) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:18: (node:67074) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:18: (node:67075) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:18: (node:67076) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:28: (node:67100) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:28: (node:67103) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:29: (node:67104) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:29: (node:67106) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:36: (node:67186) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:47: (node:67189) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:06:59: (node:67204) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:07:10: (node:67219) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+SyntaxError: Error parsing /Users/zhongyi/nodejs-test/7yue-island/island/package.json: Unexpected token } in JSON at position 823
+    at JSON.parse (<anonymous>)
+    at readPackage (internal/modules/cjs/loader.js:247:25)
+    at readPackageScope (internal/modules/cjs/loader.js:272:19)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1133:17)
+    at Module.load (internal/modules/cjs/loader.js:976:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:884:14)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/async/dist/async.js:958:16
+SyntaxError: Error parsing /Users/zhongyi/nodejs-test/7yue-island/island/package.json: Unexpected token } in JSON at position 823
+    at JSON.parse (<anonymous>)
+    at readPackage (internal/modules/cjs/loader.js:247:25)
+    at readPackageScope (internal/modules/cjs/loader.js:272:19)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1133:17)
+    at Module.load (internal/modules/cjs/loader.js:976:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:884:14)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/async/dist/async.js:958:16
+SyntaxError: Error parsing /Users/zhongyi/nodejs-test/7yue-island/island/package.json: Unexpected token } in JSON at position 823
+    at JSON.parse (<anonymous>)
+    at readPackage (internal/modules/cjs/loader.js:247:25)
+    at readPackageScope (internal/modules/cjs/loader.js:272:19)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1133:17)
+    at Module.load (internal/modules/cjs/loader.js:976:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:884:14)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/async/dist/async.js:958:16
+2020-04-03 15:08:10: (node:67346) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:08:36: (node:67437) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:08:47: (node:67440) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:08:59: (node:67459) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:09:10: (node:67463) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:09:36: (node:67538) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:09:48: (node:67541) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:09:59: (node:67545) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:10:10: (node:67548) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:10:36: (node:67610) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:10:48: (node:67613) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:10:59: (node:67636) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:11:10: (node:67655) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:11:36: (node:67728) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:11:47: (node:67737) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:11:59: (node:67754) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:12:10: (node:67833) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:12:36: (node:68062) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:12:47: (node:68152) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:12:59: (node:68228) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:13:10: (node:68313) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:13:36: (node:68541) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:13:48: (node:68618) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:13:59: (node:68686) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:14:10: (node:68754) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:14:36: (node:68968) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:14:48: (node:69044) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:14:59: (node:69108) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:15:10: (node:69176) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:15:36: (node:69390) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:15:48: (node:69460) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:15:59: (node:69539) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:16:10: (node:69624) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:16:36: (node:69838) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:16:48: (node:69908) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:16:59: (node:69976) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:17:10: (node:70039) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:17:37: (node:70246) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:17:48: (node:70328) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:17:59: (node:70401) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:18:10: (node:70479) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1373:16)
+    at rr (internal/cluster/child.js:129:12)
+    at Worker.<anonymous> (internal/cluster/child.js:96:7)
+    at process.onInternalMessage (internal/cluster/utils.js:43:8)
+    at process.emit (events.js:215:7)
+    at process.EventEmitter.emit (domain.js:478:20)
+    at emit (internal/child_process.js:878:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2020-04-03 15:18:48: (node:70606) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:18:48: (node:70607) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:18:48: (node:70608) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:19:06: (node:70671) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:19:15: (node:70686) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:19:24: (node:70699) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:19:36: (node:70754) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:19:45: (node:70764) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:19:54: (node:70768) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:20:06: (node:70822) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:20:15: (node:70825) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:20:24: (node:70828) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:20:36: (node:70882) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:20:45: (node:70891) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:20:54: (node:70894) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:21:06: (node:70948) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:21:15: (node:70951) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:21:24: (node:70954) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:21:36: (node:71008) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:21:45: (node:71017) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:21:54: (node:71020) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:22:06: (node:71074) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:22:15: (node:71077) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:22:24: (node:71080) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:22:36: (node:71134) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:22:45: (node:71152) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:22:54: (node:71174) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:23:06: (node:71244) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:23:15: (node:71251) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:23:24: (node:71262) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:23:36: (node:71324) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:23:45: (node:71333) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:23:54: (node:71336) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:24:07: (node:71391) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:24:15: (node:71395) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:24:24: (node:71398) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:24:36: (node:71452) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:24:45: (node:71455) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:24:54: (node:71465) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:25:06: (node:71519) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:25:15: (node:71522) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:25:23: (node:71527) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:25:36: (node:71581) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:25:45: (node:71585) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:25:54: (node:71594) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:26:06: (node:71648) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:26:15: (node:71651) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:26:24: (node:71654) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:26:36: (node:71728) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:26:45: (node:71739) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:26:54: (node:71757) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:27:06: (node:71827) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:27:15: (node:71831) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:27:24: (node:71842) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:27:36: (node:71913) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:27:45: (node:71916) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:27:54: (node:71933) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:28:06: (node:71995) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:28:15: (node:71999) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:28:24: (node:72002) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:28:36: (node:72056) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:28:45: (node:72059) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:28:54: (node:72068) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:29:06: (node:72131) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:29:15: (node:72151) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:29:24: (node:72162) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:29:36: (node:72252) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:29:45: (node:72258) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:29:54: (node:72277) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:30:06: (node:72357) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:30:15: (node:72387) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log
+2020-04-03 15:30:24: (node:72402) [SEQUELIZE0002] DeprecationWarning: The logging-option should be either a function or false. Default: console.log

@@ -6,7 +6,7 @@ const {
     port,
     user,
     password
-} = require('../config/config1').database
+} = require('../config/config').database
 
 const sequelize = new Sequelize(dbName,user,password,{
     dialect:'mysql',

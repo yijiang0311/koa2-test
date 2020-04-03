@@ -7,6 +7,7 @@
     "axios": "^0.18.0",
     "basic-auth": "^2.0.1",
     "bcryptjs": "^2.4.3",
+    "cross-env": "^7.0.2",
     "jsonwebtoken": "^8.4.0",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
@@ -24,8 +25,11 @@
     "test": "test"
   },
   "scripts": {
-    "start:dev": "nodemon --inspect-brk",
-    "start:prod": "node app.js"
+    "dev": "cross-env NODE_ENV=development nodemon app.js",
+    "start:dev": "nodemon --inspect-brk app.js",
+    "start:prod": "pm2 start app.js --watch",
+    "pm2": "pm2 start pm2.json",
+    "pm2-copy": "pm2 startOrRestart pm2-copy.json"
   },
   "repository": {
     "type": "git"
@@ -35,10 +39,13 @@
   ],
   "author": "7yue",
   "license": "MIT",
-  "devDependencies": {},
-  "_moduleAliases":{
-    "@root":".",
-    "@models":"app/models",
-    "@validator":"app/validators/validator.js"
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "nodemon": "^2.0.2"
+  },
+  "_moduleAliases": {
+    "@root": ".",
+    "@models": "app/models",
+    "@validator": "app/validators/validator.js"
   }
 }
